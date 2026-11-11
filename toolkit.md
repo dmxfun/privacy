@@ -1,4 +1,5 @@
 ---
+layout: default
 title: DMX Toolkit privacy policy
 permalink: /toolkit/
 ---

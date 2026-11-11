@@ -1,5 +1,6 @@
 ---
-title: dmx fun privacy policies
+layout: default
+title: Privacy policies
 ---
 
 # dmx fun — privacy policies
