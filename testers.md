@@ -13,7 +13,7 @@ Before the app can go public, Google needs at least 12 testers for 14 days. Than
 ## Steps
 
 1. **Join the testers group** (with the Google account you use on your phone):
-   [groups.google.com/g/dmx-toolkit-testers](https://groups.google.com/g/dmx-toolkit-testers)
+   [groups.google.com/g/dmxtoolkit](https://groups.google.com/g/dmxtoolkit)
 2. **Opt in to the test** on your phone:
    [play.google.com/apps/testing/com.dmxfun.toolkit](https://play.google.com/apps/testing/com.dmxfun.toolkit) → "Become a tester".
 3. **Install the app** from Google Play:
@@ -30,7 +30,7 @@ The app is free, has no ads and no tracking. [Privacy policy](../toolkit/).
 
 ## Как стать тестировщиком
 
-1. **Вступите в группу тестировщиков** с тем Google-аккаунтом, что на телефоне: [groups.google.com/g/dmx-toolkit-testers](https://groups.google.com/g/dmx-toolkit-testers)
+1. **Вступите в группу тестировщиков** с тем Google-аккаунтом, что на телефоне: [groups.google.com/g/dmxtoolkit](https://groups.google.com/g/dmxtoolkit)
 2. **Подтвердите участие** с телефона: [play.google.com/apps/testing/com.dmxfun.toolkit](https://play.google.com/apps/testing/com.dmxfun.toolkit) → «Стать тестировщиком».
 3. **Установите приложение** из Google Play: [ссылка на страницу приложения](https://play.google.com/store/apps/details?id=com.dmxfun.toolkit)
 4. **Откройте его хотя бы раз и не удаляйте 14 дней.**
